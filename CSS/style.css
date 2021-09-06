@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Hina+Mincho&family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Hina Mincho', serif;
+    color:rgb(65, 64, 64);
+    background-image: url(https://www.piedade.sp.gov.br/fotos/67/IMG_4935.JPG);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+header{
+    font-size: 16pt;
+    padding-top: 20px;
+    padding-left: 13pt;
+    background-color: rgba(255, 255, 255, 0.301);
+}
+
+main{
+    font-family: 'Roboto' , sans-serif;
+    font-size: 11pt;
+    color:rgb(65, 64, 64);
+    background-color: rgba(255, 255, 255, 0.301);
+    padding-top: 17pt;
+    padding-left: 13pt;
+    padding-bottom: 10pt;
+}
+
+#pdd{
+    background-color: rgba(255, 255, 255, 0.301);
+    padding-left: 14pt;
+}
+
+
+h3{
+    padding-top: 17pt;
+    padding-left: 17pt;
+    font-size: 17pt;
+    color:rgb(17, 17, 17);
+    background-color: rgba(255, 254, 254, 0.473);
+}
+
+#curiosidades{
+    font-family: 'Roboto' , sans-serif;
+    padding-top: 10pt;
+    padding-left: 20pt;
+    padding-bottom: 12pt;
+    font-size: 11pt;
+    color:rgb(32, 32, 32);
+    background-color: rgba(255, 254, 254, 0.473);
+}
+
+h5{
+    position: relative;
+    bottom: 160px;
+    text-align: right;
+    padding-right: 17pt;
+    font-size: 17pt;
+    color:rgb(27, 27, 27);    
+}
+
+.instagram{
+    position: absolute;
+  right: 15px;
+  width:100px;
+  padding: 10px;
+  top:960px;
+}
+
+.facebook{
+    position: absolute;
+  right: 25px;
+  width: 120px;
+  padding: 10px;
+  top:960px;
+}
